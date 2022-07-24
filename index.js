@@ -13,14 +13,14 @@ app.use(express.json());
 
 
 
-const uri = `mongodb+srv://${process.env.DB_USER}:${process.env.DB_PASS}@cluster0.8nc9y.mongodb.net/?retryWrites=true&w=majority`;
+const uri = `mongodb+srv://${process.env.DB_USER}:${process.env.DB_PASS}@cluster0.sebnjto.mongodb.net/?retryWrites=true&w=majority`;
 const client = new MongoClient(uri, { useNewUrlParser: true, useUnifiedTopology: true, serverApi: ServerApiVersion.v1 });
 
 async function run() {
     try {
         await client.connect();
-        const fruitCollection = client.db('fruitsHouse').collection('product');
-        const addedCollection = client.db('fruitHouse').collection('record');
+        const fruitCollection = client.db('warehouse-fruits').collection('fruits-items');
+        const addedCollection = client.db('warehouse-fruits').collection('record');
 
         // create or insert data
         app.post('/fruits', async (req, res) => {

@@ -5,34 +5,34 @@
         "quantity": "150",
         "shortDescription": "this is description",
         "supplierName": "Shuvo",
-        "img": "https://i.ibb.co/tPPP5n8/mango.jpg",
+        "img": "https://i.ibb.co/Pc3BF0F/h2.jpg",
         "sold": "0"
     },
     {
-        "name": "Corn",
+        "name": "Liche",
         "price": "120",
         "quantity": "100",
         "shortDescription": "this is description",
         "supplierName": "Mazidul",
-        "img": "https://i.ibb.co/CMHZfkg/corn.jpg",
+        "img": "https://i.ibb.co/7zbMk4Z/h4.jpg",
         "sold": "0"
     },
     {
-        "name": "Banana",
+        "name": "Coconut",
         "price": "50",
         "quantity": "130",
         "shortDescription": "this is description",
         "supplierName": "Minions",
-        "img": "https://i.ibb.co/2YmZ3yd/banana.jpg",
+        "img": "https://i.ibb.co/RC5hFCk/h6.jpg",
         "sold": "0"
     },
     {
-        "name": "Apple",
+        "name": "Banana",
         "price": "150",
         "quantity": "90",
         "shortDescription": "this is description",
         "supplierName": "Steve Jobs",
-        "img": "https://i.ibb.co/XWNKGnC/apple.jpg",
+        "img": "https://i.ibb.co/HnshQ70/h3.jpg",
         "sold": "0"
     },
     {
@@ -45,30 +45,12 @@
         "sold": "0"
     },
     {
-        "name": "Orange",
+        "name": "Watermilion",
         "price": "140",
         "quantity": "100",
         "shortDescription": "this is description",
         "supplierName": "Komola Khala",
-        "img": "https://i.ibb.co/F57qM4b/orange.jpg",
-        "sold": "0"
-    },
-    {
-        "name": "Litchi",
-        "price": "120",
-        "quantity": "135",
-        "shortDescription": "this is description",
-        "supplierName": "Morshed",
-        "img": "https://i.ibb.co/N9JsqvF/litchi.jpg",
-        "sold": "0"
-    },
-    {
-        "name": "Date",
-        "price": "110",
-        "quantity": "190",
-        "shortDescription": "this is description",
-        "supplierName": "Prince Salman",
-        "img": "https://i.ibb.co/z5VgbQj/date.jpg",
+        "img": "https://i.ibb.co/zXymSDD/h1.jpg",
         "sold": "0"
     }
 ]
